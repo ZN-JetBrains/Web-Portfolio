@@ -1,3 +1,6 @@
+# WebStorm cache
+.idea/
+
 # Logs
 logs
 *.log
