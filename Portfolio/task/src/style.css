@@ -1,0 +1,131 @@
+/*Reset to defaults for all browsers*/
+
+* {
+    margin: 0;
+    padding: 0;
+    /*background-color: black;*/
+    /*color: white;*/
+}
+
+/*======= Grid layout ===============================================*/
+
+/*.navigation { grid-area: navigation; }*/
+/*.header { grid-area: header; }*/
+/*.about { grid-area: about; }*/
+/*.portfolio { grid-area: portfolio; }*/
+/*.footer { grid-area: footer; }*/
+
+/*.container {*/
+/*    display: grid;*/
+/*    grid-template-areas:*/
+/*    "navigation navigation navigation navigation"*/
+/*    "header header header header"*/
+/*    "about about about about"*/
+/*    "portfolio portfolio portfolio portfolio"*/
+/*    "footer footer footer footer";*/
+/*    !*grid-gap: 10px;*!*/
+/*    background-color: #2196F3;*/
+/*    !*padding: 10px;*!*/
+/*}*/
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: #2196F3;
+}
+
+/*===================================================================*/
+
+/*======= Top navigation bar =========================================*/
+
+.navigation ul {
+    background-color: #333;
+    list-style-type: none;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.navigation li {
+    float: right;
+}
+
+.navigation a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: mediumpurple;
+}
+
+.navigation a:hover {
+    background-color: #111;
+    color: white;
+}
+
+/*===================================================================*/
+
+/*======= Header section ============================================*/
+/*.header {*/
+/*    margin-top: 45px;*/
+/*}*/
+
+.header-background {
+    position: relative;
+    text-align: center;
+    color: yellow;
+}
+
+.header-title {
+    position: absolute;
+    bottom: 20%;
+    left: 10%;
+}
+
+/*===================================================================*/
+
+/*======= About section =============================================*/
+.about {
+    background-color: lightgreen;
+    text-align: center;
+    /*margin-top: -5px;*/
+}
+
+.about p {
+    text-align: left;
+}
+
+/*===================================================================*/
+
+/*======= Portfolio section =========================================*/
+.portfolio {
+    background-color: mediumpurple;
+    text-align: center;
+}
+
+.portfolio img {
+
+}
+
+/*===================================================================*/
+
+/*======= Footer section ============================================*/
+.footer {
+    background-color: #2196F3;
+    text-align: center;
+}
+
+/*@media (max-width: 500px) {*/
+/*    .grid-container {*/
+/*        grid-template-columns: 1fr;*/
+/*        grid-template-areas:*/
+/*      "header"*/
+/*      "main"*/
+/*      "sidebar"*/
+/*      "footer";*/
+/*    }*/
+/*}*/
+
+/*===================================================================*/

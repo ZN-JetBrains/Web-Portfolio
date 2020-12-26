@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/428392/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Sun, 20 Dec 2020 13:40:32 UTC
+update_date: Sat, 26 Dec 2020 21:02:10 UTC
 stages:
 - id: 730
   step: 11307
@@ -13,7 +13,7 @@ stages:
   is_completed: true
 - id: 732
   step: 11309
-  is_completed: false
+  is_completed: true
 - id: 733
   step: 11310
   is_completed: false
@@ -76,8 +76,12 @@ topics:
     theory_id: 8325
   - title: Margin and padding
     theory_id: 8346
+  - title: Position
+    theory_id: 11581
   - title: Positioning Properties
     theory_id: 8204
+  - title: z-index
+    theory_id: 11161
   3:
   - title: Introduction to JavaScript
     theory_id: 8016
