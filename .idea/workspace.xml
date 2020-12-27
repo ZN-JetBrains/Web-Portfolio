@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08a088fe-ffee-46fc-9b40-dc54427881f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/Adaptability and сross-browser compatibility/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Adaptability and сross-browser compatibility/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/Pop-up windows/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Pop-up windows/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/task/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/task/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/task/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/task/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/task/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/task/src/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/task/test/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/task/test/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="08a088fe-ffee-46fc-9b40-dc54427881f7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +71,7 @@
       <workItem from="1608453597960" duration="10099000" />
       <workItem from="1608527797043" duration="1236000" />
       <workItem from="1609016518318" duration="17604000" />
-      <workItem from="1609106469716" duration="3034000" />
+      <workItem from="1609106469716" duration="3344000" />
     </task>
     <servers />
   </component>
