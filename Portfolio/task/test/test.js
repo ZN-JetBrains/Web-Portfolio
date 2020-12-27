@@ -124,31 +124,7 @@ async function stageTest() {
             return hs.correct();
         },
 
-        // Test #9  - check the positioning of elements
-        () => {
-            function findGridOrFlexElement(selector) {
-                let elements = document.body.querySelectorAll(selector);
-                for (let element of elements) {
-                    let display = getComputedStyle(elements[0]).display
-                    if (display === 'flex' || display === 'grid') {
-                        return true;
-                    }
-                }
-                return false;
-            }
-
-            let foundInHeader = findGridOrFlexElement('header *');
-            let foundInBody = findGridOrFlexElement('body *');
-            let foundInFooter = findGridOrFlexElement('footer *');
-
-            if (!(foundInHeader || foundInBody || foundInFooter)) {
-                return hs.wrong('Can\'t find elements to which the property "display" with value "flex" or "grid" would apply.');
-            }
-
-            return hs.correct();
-        },
-
-        // Test #10 - check header and footer background colors
+        // Test #9 - check header and footer background colors
         () => {
             function getRealColor(elem) {
                 while (elem) {
@@ -204,7 +180,7 @@ async function stageTest() {
             return hs.correct()
         },
 
-        // Test #11 - check click button and show popup window
+        // Test #10 - check click button and show popup window
         () => {
             let buttons = document.getElementsByClassName('open-window');
 
@@ -218,6 +194,16 @@ async function stageTest() {
                 return hs.wrong('Cannot find the element with the class "window".');
             }
 
+            return hs.correct()
+        },
+
+        // Test #11 -  check that the page has a hamburger menu
+        () => {
+            let buttons = document.getElementsByClassName('hamburger');
+
+            if (buttons === null || buttons.length === 0) {
+                return hs.wrong('Not find the hamburger menu on your page. Create it and set the "hamburger" class to the tag that wraps the menu elements.');
+            }
             return hs.correct()
         }
     );

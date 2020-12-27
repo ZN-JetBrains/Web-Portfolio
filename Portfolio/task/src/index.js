@@ -1,6 +1,7 @@
 const openWindowButtons = document.querySelectorAll("[data-window-target]");
 const closeWindowButtons = document.querySelectorAll("[data-close-button]");
 const overlay = document.getElementById("overlay");
+const hamburger = document.getElementById("hamburger");
 
 openWindowButtons.forEach(button => {
     button.addEventListener("click", () => {
@@ -35,3 +36,15 @@ function closeWindow(window) {
     window.classList.remove("active");
     overlay.classList.remove("active");
 }
+
+hamburger.addEventListener("click", () => {
+    const navLinks = document.querySelectorAll(".nav-link");
+    navLinks.forEach(link => {
+        if (link.style.display === "visible") {
+            link.style.display = "hidden";
+        } else {
+            link.style.display = "visible";
+        }
+    })
+
+})
