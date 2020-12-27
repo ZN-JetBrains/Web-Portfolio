@@ -11,6 +11,8 @@
     <!--CSS-->
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" type="text/css" href="images.css">
+    <!--Scripts-->
+    <script defer src="index.js"></script>
     <!--Icons-->
     <script src="https://kit.fontawesome.com/26d4a64054.js" crossorigin="anonymous"></script>
 </head>
@@ -58,8 +60,19 @@
                 <h2>Portfolio</h2>
                 <img id="flashcards-img" src="../assets/flashcards.png" alt="image of flashcards project">
                 <p>Flashcards</p>
+
+                <button data-window-target="#window" class="open-window">Flashcards</button>
+                <div class="window" id="window">
+                    <h3>Flashcards</h3>
+                    <p>You can see the project at he following link: <a href="https://github.com/ZN-Web/Flashcards">Flashcards</a></p>
+                    <p>I did this project when I was studying the frontend on HyperSkill. I created
+                     a web page with flip-down flash cards, learned some HTML basics and learned that CSS can easily make a beautiful design.</p>
+                    <button data-close-button class="close-window">Close</button>
+                </div>
+
                 <img id="piano-img" src="../assets/virtual-piano.png" alt="image of virtual piano project">
                 <p>Virtual Piano</p>
+                <button class="open-window" id="virtual-piano-window">Virtual Piano</button>
             </div>
         </section>
     </main>
@@ -81,6 +94,7 @@
     </section>
 
 </div>
+<div id="overlay"></div>
 </body>
 
 </html>

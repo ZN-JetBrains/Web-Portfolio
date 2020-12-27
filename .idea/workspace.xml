@@ -2,13 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a088fe-ffee-46fc-9b40-dc54427881f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portfolio/Adaptability and сross-browser compatibility/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Adaptability and сross-browser compatibility/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Adding styles/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Adding styles/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portfolio/Adding styles/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Adding styles/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portfolio/Making a site/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Making a site/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Pop-up windows/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Pop-up windows/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portfolio/Pop-up windows/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Pop-up windows/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portfolio/Simple page/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Simple page/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/task/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/task/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/task/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/task/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/task/test/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/task/test/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/A difference/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/A difference/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/A stack of rainbow plates/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/A stack of rainbow plates/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Access to property/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Access to property/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Alice in Wonderland/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Alice in Wonderland/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Call the function/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Call the function/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Captain/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Captain/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Cities and countries/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Cities and countries/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Code correcting/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Code correcting/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Comment the code/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Comment the code/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Comments/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Comments/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Correct variable name/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Correct variable name/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Creating a variable/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Creating a variable/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Fibonacci Sequence/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Fibonacci Sequence/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Find the error/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Find the error/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Going shopping/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Going shopping/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/I am learning JavaScript/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/I am learning JavaScript/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/I like JavaScript_/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/I like JavaScript_/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Mistake/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Mistake/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Multiplication/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Multiplication/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Pine in a snowfall/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Pine in a snowfall/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Printing a line/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Printing a line/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Printing a name/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Printing a name/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Printing a number/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Printing a number/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Printing several variables/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Printing several variables/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Printing text/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Printing text/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Printing the type/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Printing the type/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Refactoring/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Refactoring/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Square/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Square/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Tic-Tac-Toe/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Tic-Tac-Toe/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Uncomment a line/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Uncomment a line/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Working code/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Working code/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Wrestler with errors/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Wrestler with errors/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Writing a program/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Writing a program/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Your name/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Your name/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/let or const/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/let or const/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/typeof/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/typeof/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +63,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -54,7 +98,7 @@
       <recent name="C:\Dev\JetBrains\Web\Portfolio\assets" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.main.js">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio/Portfolio/task/src/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -63,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.main.js" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.main.js" />
       </list>
     </recent_temporary>
   </component>
@@ -78,7 +122,7 @@
       <updated>1608453594986</updated>
       <workItem from="1608453597960" duration="10099000" />
       <workItem from="1608527797043" duration="1236000" />
-      <workItem from="1609016518318" duration="9485000" />
+      <workItem from="1609016518318" duration="14696000" />
     </task>
     <servers />
   </component>
