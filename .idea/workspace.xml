@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="08a088fe-ffee-46fc-9b40-dc54427881f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/Adding styles/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Adding styles/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/Making a site/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Making a site/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/task/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/task/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/task/test/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/task/test/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Adaptability and сross-browser compatibility/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Adaptability and сross-browser compatibility/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Adding styles/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Adding styles/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Making a site/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Making a site/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Pop-up windows/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Pop-up windows/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Simple page/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Simple page/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,12 +54,16 @@
       <recent name="C:\Dev\JetBrains\Web\Portfolio\assets" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.main.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio/Portfolio/task/src/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Problems/I like JavaScript_/main.js" working-dir="$PROJECT_DIR$/Problems/I like JavaScript_">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main.js" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -73,7 +78,7 @@
       <updated>1608453594986</updated>
       <workItem from="1608453597960" duration="10099000" />
       <workItem from="1608527797043" duration="1236000" />
-      <workItem from="1609016518318" duration="933000" />
+      <workItem from="1609016518318" duration="9485000" />
     </task>
     <servers />
   </component>
